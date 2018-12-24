@@ -15,6 +15,7 @@
 		96A79F3521D0A46D00962CB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96A79F3321D0A46D00962CB4 /* Main.storyboard */; };
 		96A79F3721D0A46D00962CB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96A79F3621D0A46D00962CB4 /* Assets.xcassets */; };
 		96A79F3A21D0A46D00962CB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96A79F3821D0A46D00962CB4 /* LaunchScreen.storyboard */; };
+		96A79F4221D0A4E200962CB4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 96A79F4121D0A4E200962CB4 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		96A79F3621D0A46D00962CB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96A79F3921D0A46D00962CB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96A79F3B21D0A46D00962CB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96A79F4121D0A4E200962CB4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				96A79F3621D0A46D00962CB4 /* Assets.xcassets */,
 				96A79F3821D0A46D00962CB4 /* LaunchScreen.storyboard */,
 				96A79F3B21D0A46D00962CB4 /* Info.plist */,
+				96A79F4121D0A4E200962CB4 /* .gitignore */,
 			);
 			path = "Humankind Zero";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				96A79F2C21D0A46D00962CB4 /* GameScene.sks in Resources */,
 				96A79F3721D0A46D00962CB4 /* Assets.xcassets in Resources */,
 				96A79F3A21D0A46D00962CB4 /* LaunchScreen.storyboard in Resources */,
+				96A79F4221D0A4E200962CB4 /* .gitignore in Resources */,
 				96A79F2E21D0A46D00962CB4 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
